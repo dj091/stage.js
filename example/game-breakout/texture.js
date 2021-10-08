@@ -1,5 +1,5 @@
 Stage({
-  image : { src : './bg.png', ratio : 2 },
+  image : { src : './bg1.png', ratio : 2 },
   textures : {
     'board' : { x : 0, y : 0,  width : 320, height : 416 }
   }
@@ -24,7 +24,7 @@ Stage({
     'bys'        : { x : 208,   y : 0,    width : 16,  height : 16 },
     'bps'        : { x : 224,   y : 0,    width : 16,  height : 16 },
 
-    'paddleFull' : { x : 0,     y : 32,  width : 48,  height : 16 },
+    'paddleFull' : { x : 0,     y : 35,  width :  48,  height : 9 },
     'paddleMini' : { x : 48,    y : 32,  width : 32,  height : 16 },
     'ball'       : { x : 80,    y : 32,  width : 16,  height : 16 },
     '+'          : { x : 96,    y : 32,  width : 16,  height : 16 },

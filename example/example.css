@@ -13,6 +13,10 @@ body {
 	background: rgba(32, 32, 32, 0.7);
 }
 
+.background {
+	background: rgba(68, 32, 32, 0.7);
+}
+
 .about {
 	right: 0.5em;
 	bottom: 0.5em;
